@@ -4,7 +4,7 @@ A browser-based, offline single-player Texas Hold'em poker trainer built to help
 
 🎮 **Play it live:** [mr-tilt.vercel.app](https://mr-tilt.vercel.app/)
 
-![gameplay](all-in-showdown.png)
+![knockout](mrtilt_fastfold_knockout.gif)
 
 ## What It Is
 
