@@ -4,6 +4,8 @@ A browser-based, offline single-player Texas Hold'em poker trainer built to help
 
 🎮 **Play it live:** [mr-tilt.vercel.app](https://mr-tilt.vercel.app/)
 
+![gameplay](all-in-showdown.png)
+
 ## What It Is
 
 A 6-9max No-Limit Hold'em training simulator where you play against AI bots of scaling difficulty. The bots use solver-derived preflop ranges and a custom postflop decision engine to simulate realistic opponents, so you can practice hand reading, position play, bet sizing, and tournament ICM pressure without risking real money.
