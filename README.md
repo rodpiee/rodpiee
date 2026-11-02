@@ -33,8 +33,8 @@ The solver engine and bot logic are proprietary and kept in a private repository
 
 ## Screenshots
 
-<img src="all-in-showdown.png" width="600">
 <img src="start-screen.png" width="600">
+<img src="all-in-showdown.png" width="600">
 <img src="all-chips-360x648.png" width="300">
 
 ## Contact
